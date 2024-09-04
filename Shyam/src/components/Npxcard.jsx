@@ -14,7 +14,7 @@ const Npxcard = () => {
   return (
     <div className="flex items-center bg-[#1e1e2d] py-2 pr-2 pl-1 mt-9  rounded-2xl max-w-64 shadow-lg border border-slate-800">
       <div className="bg-[#23a7be] w-5 h-11 rounded-xl">.</div>
-      <div className="flex-1 px-3 text-[#23a7be] font-mono text-lg">
+      <div className="flex-1 px-3 text-[#23a7be] font-mono sm:text-lg text-sm">
         npx shyamkadiwar
       </div>
 
