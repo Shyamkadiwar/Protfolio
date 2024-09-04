@@ -17,7 +17,7 @@ const Spin = () => {
       // onClick={handleDownload}
     >
       {/* <p className="text-[rgb(167_154_230_/_87%)] text-sm md:text-2xl">CV</p> */}
-      <p className="text-[rgb(167_154_230_/_87%)] text-sm md:text-2xl"><a href={path} download="Shyam_CV.pdf">CV</a></p>
+      <p className="text-[rgb(167_154_230_/_87%)] text-xl md:text-2xl"><a href={path} download="Shyam_CV.pdf">CV</a></p>
     </div>
   );
 };
