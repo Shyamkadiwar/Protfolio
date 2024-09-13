@@ -33,7 +33,10 @@ function Profile() {
                         <a href="https://www.linkedin.com/in/shyam-kadiwar-6bb865249/">
                             <img className="w-6 h-6" src={linkedINLogo} alt="LinkedIn" />
                         </a>
-                        <img className="w-6 h-6" src={profileLogo} alt="User" />
+                        <a href="https://shyamcodes.vercel.app">
+                            <img className="w-6 h-6" src={profileLogo} alt="User" />
+                        </a>
+                        
                     </div>
                     <Npxcard />
                 </div>
