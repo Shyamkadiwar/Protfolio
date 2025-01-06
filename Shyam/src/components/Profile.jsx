@@ -30,7 +30,7 @@ function Profile() {
                         <a href="mailto:shyamkadiwar@gmail.com">
                             <img className="w-6 h-6" src={mailLogo} alt="Mail" />
                         </a>
-                        <a href="https://www.linkedin.com/in/shyam-kadiwar-6bb865249/">
+                        <a href="https://www.linkedin.com/in/shyamkadiwar">
                             <img className="w-6 h-6" src={linkedINLogo} alt="LinkedIn" />
                         </a>
                         <a href="https://shyamcodes.vercel.app">
