@@ -1,6 +1,6 @@
 import React from 'react';
 import download from './assets/download.png';
-import path from '../ShyamCV.pdf'; // Import the PDF correctly
+import path from '../Shyam_CV.pdf'; // Import the PDF correctly
 
 const Npxcard = () => {
   const handleCopy = () => {

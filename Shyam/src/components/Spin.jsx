@@ -1,5 +1,5 @@
 import React from 'react';
-import path from '../ShyamCV.pdf'
+import path from '../Shyam_CV.pdf'
 
 const Spin = () => {
   const handleDownload = () => {
