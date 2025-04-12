@@ -17,8 +17,8 @@ function Profile() {
                     <div className="pt-5">
                         <h1 className="font-fontt text-[rgb(186_230_253_/_95%)] text-8xl font-extrabold mt-2">Shyam</h1>
                         <div className="font-fontt text-[rgb(167_154_230_/_87%)] text-2xl font-extrabold">
-                            <p className="mt-7">AI/ML Engineer.</p>
                             <p className="mt-4">Full Stack Web Developer.</p>
+                            <p className="mt-7">AI/ML Engineer.</p>
                             <p className="mt-4">Data Analyst.</p>
                             <p className="mt-4">From <span className="text-[#9df09d]">concepts</span> to <span className="text-[#9df09d]">code;</span></p>
                         </div>
