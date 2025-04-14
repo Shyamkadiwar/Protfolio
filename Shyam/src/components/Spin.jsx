@@ -1,11 +1,11 @@
 import React from 'react';
-import path from '../Shyam_CV.pdf'
+import path from '../SHYAM_CV.pdf'
 
 const Spin = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/ShyamCV.pdf';
-    link.download = 'Shyam_CV.pdf';
+    link.href = '/SHYAM_CV.pdf';
+    link.download = 'SHYAM_CV.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

@@ -1,12 +1,12 @@
 import React from 'react';
 import download from './assets/download.png';
-import path from '../Shyam_CV.pdf'; // Import the PDF correctly
+import path from '../SHYAM_CV.pdf'; 
 
 const Npxcard = () => {
   const handleCopy = () => {
     const link = document.createElement('a');
     link.href = path;
-    link.download = 'Shyam_CV.pdf';
+    link.download = 'SHYAM_CV.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
